@@ -34,7 +34,6 @@ def sorted_matrix
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"
   ], [
   "Strawberries",
   "Potatoes",
