@@ -30,16 +30,17 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   
   [ [
-  "Eggplant"
+  "Eggplant",
   "Grapefruit",
   "Oranges",
   "Pineapple",
-  "Watermelon",
+  "Watermelon"
   ], [
   "Avocadoes",
-  "Asparagus"
-  "Strawberries",
+  "Asparagus",
+  "Grapes",
   "Potatoes",
+  "Strawberries"
   ] ]
 end
 
